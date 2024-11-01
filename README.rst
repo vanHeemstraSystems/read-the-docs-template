@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Readme
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+SLUGLINE
 
-Read the tutorial here:
+Description
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://github.com/vanHeemstraSystems/REPOSITORY_NAME
