@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PROJECT_NAME'
+copyright = '2024 - present, van Heemstra Systems'
+author = 'Willem van Heemstra'
 
 release = '0.1'
 version = '0.1.0'
