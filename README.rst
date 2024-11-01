@@ -11,4 +11,5 @@ Read-the-Docs
 
 - Read: https://vanheemstrasystems-REPOSITORY-NAME.readthedocs.io/en/latest/
 
-- Manage: https://readthedocs.org/dashboard/
+- Manage (NEW): https://app.readthedocs.org/projects/vanheemstrasystems-REPOSITORY-NAME/
+- Manage (OLD): https://readthedocs.org/dashboard/
